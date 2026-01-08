@@ -1,7 +1,7 @@
 # Melodyne – Audio Pitch Editing
 
 <div align="center">  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Melodyne_logo.svg/2560px-Melodyne_logo.svg.png" width="250" alt="Melodyne Logo"/>  
+  <img src="https://macx.ws/uploads/posts/2020-05/1590660982_melodyne.png" width="250" alt="Melodyne Logo"/>  
 </div>  
 
 <br>  
